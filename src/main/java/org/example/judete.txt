@@ -1,0 +1,7 @@
+GR Giurgiu SudMuntenia 262066 3544
+TM Timis Vest 650533 8692
+CS CarasSeverin Vest 246588 8532
+B Bucuresti BucurestiIlfov 1716983 240
+DJ Dolj SudVestOltenia 599442 7425
+SB Sibiu Centru 388325 5432
+NT Neamt NordEst 454203 5897
